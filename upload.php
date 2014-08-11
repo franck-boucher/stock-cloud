@@ -120,7 +120,7 @@
 <footer class="bs-docs-footer" role="contentinfo">
   <div class="container">
 
-    <p>Designed and built by Franck Boucher.</p>
+    <p>Designed and built by <a href="https://github.com/franck-boucher/">Franck Boucher</a>.</p>
     <p>Powered by the <a href="http://getbootstrap.com">Bootstrap</a> and <a href="http://glyphicons.com">Glyphicons</a>.</p>
   </div>
 </footer>
